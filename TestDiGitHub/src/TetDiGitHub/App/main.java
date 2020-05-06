@@ -12,6 +12,7 @@ public class main {
 		//Faccio una seconda modifica su Eclipse poi provo a pushare tutto su Eclipses
 		//Push non consentito -> non avevo l'ultima versione del codice sul mio Eclipse
 		//Modifiche effettuate
+		//Proviamo ad eliminare il file
 	}
 
 }
