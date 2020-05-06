@@ -10,4 +10,6 @@ public class Persona {
 	
 	
 	int anni;
+	int id;
+	int matricola;
 }
