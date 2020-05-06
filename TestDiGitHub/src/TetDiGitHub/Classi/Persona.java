@@ -7,7 +7,7 @@ public class Persona {
 	String indirizzo;
 	String locazione;
 	
-	
+	//Nuova prova
 	
 	int anni;
 	int id;
