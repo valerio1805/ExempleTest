@@ -6,7 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		//Import repo di github
 		//Collego il nuovo progetto alla repo di github
-		
+		//Modifico il file e faccio un nuovo commit		
 	}
 
 }
