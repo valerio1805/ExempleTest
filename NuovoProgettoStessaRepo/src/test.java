@@ -5,6 +5,7 @@ public class test {
 		// TODO Auto-generated method stub
 		//prova
 		Test n°2
+		//ciao
 	}
 
 }
